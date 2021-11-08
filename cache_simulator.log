@@ -1,0 +1,6238 @@
+Loading config...
+Memory hierarchy built.
+Loading tracefile...
+Loaded tracefile traces/trace2.txt
+Begin simulation!
+0:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1:	Reading 2003fff0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+2:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+3:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+4:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+5:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+6:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+7:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+8:	Reading 308b6ff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+9:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+10:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+11:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+12:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+13:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+14:	Reading 308b64d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+15:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+16:	Reading 308b24f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+17:	Reading 30c6dad0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+18:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+19:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+20:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+21:	Reading 308b6500
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+22:	Reading 308b2760
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+23:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+24:	Reading 308b2760
+	hit_list: {'cache_1': True}	time: 1
+
+25:	Reading 30c6d488
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+26:	Reading 308b2768
+	hit_list: {'cache_1': True}	time: 1
+
+27:	Reading 2003ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+28:	Reading 20013f50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+29:	Reading 308b2770
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+30:	Reading 308b2608
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+31:	Reading 30c6d178
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+32:	Reading 308b2610
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+33:	Reading 308b2610
+	hit_list: {'cache_1': True}	time: 1
+
+34:	Writing 26c1ff28
+	hit_list: {'cache_1': False}	time: 1
+
+35:	Reading 308b2618
+	hit_list: {'cache_1': True}	time: 1
+
+36:	Reading 308b2620
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+37:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+38:	Reading 308bee30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+39:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+40:	Reading 26c1fa70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+41:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+42:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+43:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+44:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+45:	Reading 308bffb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+46:	Reading 308b26b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+47:	Reading 308b26c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+48:	Reading 308b26c0
+	hit_list: {'cache_1': True}	time: 1
+
+49:	Reading 308b26c8
+	hit_list: {'cache_1': True}	time: 1
+
+50:	Reading 2f974a18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+51:	Reading 2f9748f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+52:	Reading 26c1ff28
+	hit_list: {'cache_1': True}	time: 1
+
+53:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+54:	Reading 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+55:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+56:	Reading 2f974900
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+57:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+58:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+59:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+60:	Reading 20039ff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+61:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+62:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+63:	Reading 2017ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+64:	Reading 2f974968
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+65:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+66:	Reading 2f974970
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+67:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+68:	Writing 26c1fa70
+	hit_list: {'cache_1': False}	time: 1
+
+69:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+70:	Reading 2f1ace88
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+71:	Reading 2f974978
+	hit_list: {'cache_1': True}	time: 1
+
+72:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+73:	Reading 26c1fd88
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+74:	Reading 2f974d80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+75:	Writing 26c1ff50
+	hit_list: {'cache_1': False}	time: 1
+
+76:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+77:	Reading 30c6dfc8
+	Writing back block 30c6dfc8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+78:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+79:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+80:	Reading 2f9749b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+81:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+82:	Reading 2f9749b0
+	hit_list: {'cache_1': True}	time: 1
+
+83:	Reading 30c6d980
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+84:	Reading 2f97cdb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+85:	Reading 2f97fdd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+86:	Writing 26c1ff50
+	hit_list: {'cache_1': True}	time: 1
+
+87:	Reading 2f9749c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+88:	Reading 308b23e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+89:	Reading 2041fb50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+90:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+91:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+92:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+93:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+94:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+95:	Reading 308b63f8
+	Writing back block 308b63f8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+96:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+97:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+98:	Writing 26c1fd88
+	hit_list: {'cache_1': False}	time: 1
+
+99:	Reading 308bec10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+100:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+101:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+102:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+103:	Reading 3d729ef8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+104:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+105:	Reading 308b24d0
+	Writing back block 308b24d0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+106:	Reading 308b24e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+107:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+108:	Reading 308b24f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+109:	Reading 30c6dab0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+110:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+111:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+112:	Reading 308b2500
+	Writing back block 308b2500 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+113:	Reading 308bed10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+114:	Reading 3d729ef0
+	hit_list: {'cache_1': True}	time: 1
+
+115:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+116:	Reading 308b2510
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+117:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+118:	Reading 308b2510
+	hit_list: {'cache_1': True}	time: 1
+
+119:	Reading 308b2510
+	hit_list: {'cache_1': True}	time: 1
+
+120:	Reading 308b2528
+	Writing back block 308b2528 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+121:	Writing 26c1fa58
+	hit_list: {'cache_1': False}	time: 1
+
+122:	Reading 30c48238
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+123:	Reading 31308000
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+124:	Reading 32098020
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+125:	Writing 26c1fa58
+	hit_list: {'cache_1': True}	time: 1
+
+126:	Reading 2f8773b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+127:	Reading 2f8773b0
+	hit_list: {'cache_1': True}	time: 1
+
+128:	Reading 2f8773b8
+	hit_list: {'cache_1': True}	time: 1
+
+129:	Writing 26c1f9b0
+	hit_list: {'cache_1': False}	time: 1
+
+130:	Reading 2f8773b8
+	hit_list: {'cache_1': True}	time: 1
+
+131:	Reading 0bfef848
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+132:	Reading 2f8773c0
+	Writing back block 2f8773c0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+133:	Writing 26c1f9b0
+	hit_list: {'cache_1': True}	time: 1
+
+134:	Reading 2887ffd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+135:	Writing 26c1f9a8
+	hit_list: {'cache_1': False}	time: 1
+
+136:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+137:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+138:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+139:	Writing 26c1fa30
+	hit_list: {'cache_1': False}	time: 1
+
+140:	Reading 2f8773c8
+	hit_list: {'cache_1': True}	time: 1
+
+141:	Reading 2b87ffd8
+	Writing back block 2b87ffd8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+142:	Reading 3d729f58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+143:	Reading 2f8773d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+144:	Reading 2f8773e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+145:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+146:	Reading 2f8773e0
+	hit_list: {'cache_1': True}	time: 1
+
+147:	Reading 2e87fff0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+148:	Reading 2491f050
+	Writing back block 2491f050 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+149:	Reading 2f8773e0
+	hit_list: {'cache_1': True}	time: 1
+
+150:	Reading 3d729358
+	Writing back block 3d729358 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+151:	Reading 2f8773e8
+	hit_list: {'cache_1': True}	time: 1
+
+152:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+153:	Reading 2f87fff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+154:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+155:	Reading 2f8773f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+156:	Reading 2f8773f0
+	hit_list: {'cache_1': True}	time: 1
+
+157:	Reading 3259e2a8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+158:	Reading 2a87fff0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+159:	Reading 2f8773f0
+	hit_list: {'cache_1': True}	time: 1
+
+160:	Writing 26c1fa50
+	hit_list: {'cache_1': False}	time: 1
+
+161:	Reading 2f8773f8
+	hit_list: {'cache_1': True}	time: 1
+
+162:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+163:	Reading 2e87fff8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+164:	Reading 2f877408
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+165:	Reading 2f877408
+	hit_list: {'cache_1': True}	time: 1
+
+166:	Reading 2007ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+167:	Reading 2f877410
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+168:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+169:	Reading 2f9e1fa0
+	Writing back block 2f9e1fa0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+170:	Reading 2887ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+171:	Reading 2807ff30
+	Writing back block 2807ff30 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+172:	Reading 2f9edf98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+173:	Reading 2f877450
+	Writing back block 2f877450 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+174:	Writing 26c1f9a8
+	hit_list: {'cache_1': False}	time: 1
+
+175:	Reading 2f877450
+	hit_list: {'cache_1': True}	time: 1
+
+176:	Writing 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+177:	Reading 31308000
+	hit_list: {'cache_1': True}	time: 1
+
+178:	Reading 32098020
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+179:	Reading 30eb62f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+180:	Reading 2641ffb8
+	Writing back block 2641ffb8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+181:	Reading 30eb62f0
+	hit_list: {'cache_1': True}	time: 1
+
+182:	Reading 30eb62f0
+	hit_list: {'cache_1': True}	time: 1
+
+183:	Reading 30ebeef8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+184:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+185:	Reading 30eb6300
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+186:	Reading 30eb6408
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+187:	Reading 30eb6308
+	hit_list: {'cache_1': True}	time: 1
+
+188:	Reading 30eb63f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+189:	Reading 30eb6308
+	hit_list: {'cache_1': True}	time: 1
+
+190:	Writing 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+191:	Reading 0001ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+192:	Reading 30eb6460
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+193:	Reading 3d729388
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+194:	Reading 30eb6460
+	hit_list: {'cache_1': True}	time: 1
+
+195:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+196:	Reading 30eb6468
+	hit_list: {'cache_1': True}	time: 1
+
+197:	Reading 30eb6468
+	hit_list: {'cache_1': True}	time: 1
+
+198:	Writing 3d729388
+	hit_list: {'cache_1': True}	time: 1
+
+199:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+200:	Reading 30eb6470
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+201:	Reading 30eb6470
+	hit_list: {'cache_1': True}	time: 1
+
+202:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+203:	Reading 304bfe78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+204:	Reading 30729f58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+205:	Reading 30eb6470
+	hit_list: {'cache_1': True}	time: 1
+
+206:	Reading 30eb6480
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+207:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+208:	Reading 30eb6480
+	hit_list: {'cache_1': True}	time: 1
+
+209:	Reading 30eb6480
+	hit_list: {'cache_1': True}	time: 1
+
+210:	Reading 30eb6480
+	hit_list: {'cache_1': True}	time: 1
+
+211:	Reading 249db450
+	Writing back block 249db450 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+212:	Reading 30eb6488
+	hit_list: {'cache_1': True}	time: 1
+
+213:	Reading 3259e2a8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+214:	Reading 30eb6488
+	hit_list: {'cache_1': True}	time: 1
+
+215:	Reading 30eb6488
+	hit_list: {'cache_1': True}	time: 1
+
+216:	Writing 249db050
+	hit_list: {'cache_1': False}	time: 1
+
+217:	Reading 30eb6498
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+218:	Reading 30eb6498
+	hit_list: {'cache_1': True}	time: 1
+
+219:	Reading 30eb6c98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+220:	Reading 30eb64a0
+	Writing back block 30eb64a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+221:	Reading 30eb64a0
+	hit_list: {'cache_1': True}	time: 1
+
+222:	Reading 30eb64c8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+223:	Writing 26c1f998
+	hit_list: {'cache_1': False}	time: 1
+
+224:	Reading 30eb64c8
+	hit_list: {'cache_1': True}	time: 1
+
+225:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+226:	Reading 30eb64c8
+	hit_list: {'cache_1': True}	time: 1
+
+227:	Reading 0002ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+228:	Reading 30eb64c8
+	hit_list: {'cache_1': True}	time: 1
+
+229:	Reading 2f87fd28
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+230:	Reading 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+231:	Reading 2003ff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+232:	Reading 2001f990
+	Writing back block 2001f990 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+233:	Reading 2f877130
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+234:	Reading 26c1f998
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+235:	Reading 2f877130
+	hit_list: {'cache_1': True}	time: 1
+
+236:	Reading 26c1f998
+	hit_list: {'cache_1': True}	time: 1
+
+237:	Reading 2f877130
+	hit_list: {'cache_1': True}	time: 1
+
+238:	Reading 26c1f9a0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+239:	Reading 30eb6310
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+240:	Reading 30eb63e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+241:	Reading 30eb63e0
+	hit_list: {'cache_1': True}	time: 1
+
+242:	Reading 30eb63e8
+	hit_list: {'cache_1': True}	time: 1
+
+243:	Reading 30eb63f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+244:	Reading 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+245:	Reading 2f877450
+	Writing back block 2f877450 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+246:	Reading 2f87fc58
+	Writing back block 2f87fc58 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+247:	Reading 2f877460
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+248:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+249:	Writing 26c1fa50
+	hit_list: {'cache_1': False}	time: 1
+
+250:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+251:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+252:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+253:	Reading 2f877468
+	hit_list: {'cache_1': True}	time: 1
+
+254:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+255:	Reading 2003ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+256:	Reading 2f877470
+	Writing back block 2f877470 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+257:	Reading 2f877470
+	hit_list: {'cache_1': True}	time: 1
+
+258:	Reading 2f877478
+	hit_list: {'cache_1': True}	time: 1
+
+259:	Reading 2f877480
+	Writing back block 2f877480 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+260:	Reading 31308000
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+261:	Reading 32098028
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+262:	Reading 33922088
+	Writing back block 33922088 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+263:	Reading 2f8775c8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+264:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+265:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+266:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+267:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+268:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+269:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+270:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+271:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+272:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+273:	Reading 2f877608
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+274:	Reading 2f877610
+	Writing back block 2f877610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+275:	Reading 2f87fe18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+276:	Reading 0002ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+277:	Reading 2f877620
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+278:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+279:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+280:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+281:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+282:	Reading 2807fe30
+	Writing back block 2807fe30 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+283:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+284:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+285:	Reading 2f877640
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+286:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+287:	Reading 2f87fe58
+	Writing back block 2f87fe58 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+288:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+289:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+290:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+291:	Reading 2f877650
+	Writing back block 2f877650 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+292:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+293:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+294:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+295:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+296:	Reading 2f877658
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+297:	Reading 0002ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+298:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+299:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+300:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+301:	Reading 2007ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+302:	Reading 3259e6b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+303:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+304:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+305:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+306:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+307:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+308:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+309:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+310:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+311:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+312:	Reading 249db368
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+313:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+314:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+315:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+316:	Reading 2f877610
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+317:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+318:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+319:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+320:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+321:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+322:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+323:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+324:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+325:	Reading 2007ff50
+	Writing back block 2007ff50 to cache_3
+	Writing back block 2007ff50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+326:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+327:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+328:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+329:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+330:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+331:	Reading 2415f050
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+332:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+333:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+334:	Writing 249db050
+	hit_list: {'cache_1': False}	time: 1
+
+335:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+336:	Reading 3d729b58
+	Writing back block 3d729b58 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+337:	Reading 2405f050
+	Writing back block 2405f050 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+338:	Reading 2f877658
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+339:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+340:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+341:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+342:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+343:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+344:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+345:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+346:	Reading 2f87fe78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+347:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+348:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+349:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+350:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+351:	Reading 249dbe70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+352:	Reading 249db360
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+353:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+354:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+355:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+356:	Reading 2d87fe18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+357:	Reading 2f877610
+	Writing back block 2f877610 to cache_3
+	Writing back block 2f877610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+358:	Reading 2c87fe18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+359:	Reading 0003ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+360:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+361:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+362:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+363:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+364:	Reading 2f87fe30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+365:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+366:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+367:	Reading 2f877640
+	hit_list: {'cache_1': True}	time: 1
+
+368:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+369:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+370:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+371:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+372:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+373:	Reading 2001f050
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+374:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+375:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+376:	Writing 249db050
+	hit_list: {'cache_1': False}	time: 1
+
+377:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+378:	Reading 3d729f58
+	Writing back block 3d729f58 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+379:	Reading 2001f050
+	Writing back block 2001f050 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+380:	Reading 2f877658
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+381:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+382:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+383:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+384:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+385:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+386:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+387:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+388:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+389:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+390:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+391:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+392:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+393:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+394:	Reading 2f877df0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+395:	Reading 249db350
+	Writing back block 249db350 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+396:	Reading 2f8775f8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+397:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+398:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+399:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+400:	Reading 2f877618
+	Writing back block 2f877618 to cache_3
+	Writing back block 2f877618 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+401:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+402:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+403:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+404:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+405:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+406:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+407:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+408:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+409:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+410:	Reading 0002ff50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+411:	Reading 20022910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+412:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+413:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+414:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+415:	Reading 2f877e48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+416:	Reading 2f877650
+	Writing back block 2f877650 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+417:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+418:	Writing 249db050
+	hit_list: {'cache_1': False}	time: 1
+
+419:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+420:	Reading 3d729350
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+421:	Reading 2f877658
+	Writing back block 2f877658 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+422:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+423:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+424:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+425:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+426:	Reading 249dbc50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+427:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+428:	Reading 3259e2a8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+429:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+430:	Reading 2007ff78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+431:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+432:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+433:	Reading 2f87fdd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+434:	Reading 249df478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+435:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+436:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+437:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+438:	Reading 249db358
+	Writing back block 249db358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+439:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+440:	Reading 2002ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+441:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+442:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+443:	Reading 2f877610
+	hit_list: {'cache_1': True}	time: 1
+
+444:	Reading 0002ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+445:	Reading 2f877618
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+446:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+447:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+448:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+449:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+450:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+451:	Reading 2003ff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+452:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+453:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+454:	Reading 2f877640
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+455:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+456:	Reading 2f87fe58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+457:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+458:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+459:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+460:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+461:	Reading 2f877650
+	Writing back block 2f877650 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+462:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+463:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+464:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+465:	Reading 3d729b58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+466:	Reading 249df050
+	Writing back block 249df050 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+467:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+468:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+469:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+470:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+471:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+472:	Reading 0002ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+473:	Reading 3041e2b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+474:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+475:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+476:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+477:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+478:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+479:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+480:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+481:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+482:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+483:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+484:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+485:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+486:	Reading 2f87fe18
+	Writing back block 2f87fe18 to cache_3
+	Writing back block 2f87fe18 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+487:	Reading 2f877610
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+488:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+489:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+490:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+491:	Reading 2c87fe38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+492:	Reading 0ac5cef8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+493:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+494:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+495:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+496:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+497:	Reading 2f87fe38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+498:	Reading 0002ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+499:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+500:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+501:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+502:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+503:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+504:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+505:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+506:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+507:	Reading 2f87fe50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+508:	Reading 2f877658
+	Writing back block 2f877658 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+509:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+510:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+511:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+512:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+513:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+514:	Reading 2003ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+515:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+516:	Reading 3259e2a8
+	hit_list: {'cache_1': True}	time: 1
+
+517:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+518:	Reading 2f87fe78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+519:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+520:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+521:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+522:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+523:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+524:	Reading 2003ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+525:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+526:	Reading 249db2b8
+	Writing back block 249db2b8 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+527:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+528:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+529:	Reading 2f87fdf8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+530:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+531:	Reading 0003ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+532:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+533:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+534:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+535:	Reading 0000ff18
+	Writing back block 0000ff18 to cache_3
+	Writing back block 0000ff18 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+536:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+537:	Reading 2f877680
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+538:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+539:	Reading 2f877680
+	hit_list: {'cache_1': True}	time: 1
+
+540:	Reading 3d729640
+	hit_list: {'cache_1': True}	time: 1
+
+541:	Reading 2f877688
+	hit_list: {'cache_1': True}	time: 1
+
+542:	Reading 2f877688
+	hit_list: {'cache_1': True}	time: 1
+
+543:	Writing 0bfef848
+	hit_list: {'cache_1': False}	time: 1
+
+544:	Reading 2f877690
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+545:	Reading 2f877690
+	hit_list: {'cache_1': True}	time: 1
+
+546:	Writing 26c1f9a0
+	hit_list: {'cache_1': False}	time: 1
+
+547:	Reading 2007ff90
+	Writing back block 2007ff90 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+548:	Reading 2f877690
+	hit_list: {'cache_1': True}	time: 1
+
+549:	Reading 2f8776a0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+550:	Writing 3d7296d0
+	Writing back block 3d7296d0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+551:	Reading 2f877eb0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+552:	Writing 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+553:	Reading 30c480a0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+554:	Reading 31335d30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+555:	Reading 26c1f9a8
+	hit_list: {'cache_1': True}	time: 1
+
+556:	Reading 31335d30
+	hit_list: {'cache_1': True}	time: 1
+
+557:	Writing 26c1f998
+	hit_list: {'cache_1': False}	time: 1
+
+558:	Reading 31335d30
+	hit_list: {'cache_1': True}	time: 1
+
+559:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+560:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+561:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+562:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+563:	Reading 2003ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+564:	Reading 31335d40
+	Writing back block 31335d40 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+565:	Reading 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+566:	Reading 31335d40
+	hit_list: {'cache_1': True}	time: 1
+
+567:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+568:	Reading 31335d40
+	hit_list: {'cache_1': True}	time: 1
+
+569:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+570:	Reading 0003ff10
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+571:	Writing 26c1f988
+	hit_list: {'cache_1': False}	time: 1
+
+572:	Reading 31335dc0
+	Writing back block 31335dc0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+573:	Reading 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+574:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+575:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+576:	Writing 26c1f988
+	hit_list: {'cache_1': True}	time: 1
+
+577:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+578:	Reading 0002ff18
+	Writing back block 0002ff18 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+579:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+580:	Reading 31335dd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+581:	Reading 31335dd0
+	hit_list: {'cache_1': True}	time: 1
+
+582:	Reading 31dae110
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+583:	Reading 31335dd8
+	hit_list: {'cache_1': True}	time: 1
+
+584:	Reading 31335dd8
+	hit_list: {'cache_1': True}	time: 1
+
+585:	Reading 0bfef8c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+586:	Reading 31335de0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+587:	Reading 31335de0
+	hit_list: {'cache_1': True}	time: 1
+
+588:	Reading 3133ddf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+589:	Reading 2002a110
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+590:	Reading 31335de8
+	hit_list: {'cache_1': True}	time: 1
+
+591:	Reading 31335de8
+	hit_list: {'cache_1': True}	time: 1
+
+592:	Reading 31335de8
+	hit_list: {'cache_1': True}	time: 1
+
+593:	Reading 0bfef8b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+594:	Reading 31335df0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+595:	Reading 0bfef8b0
+	hit_list: {'cache_1': True}	time: 1
+
+596:	Reading 31335df8
+	hit_list: {'cache_1': True}	time: 1
+
+597:	Reading 31335df8
+	hit_list: {'cache_1': True}	time: 1
+
+598:	Reading 31335e00
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+599:	Reading 26c1fd88
+	Writing back block 26c1fd88 to cache_3
+	Writing back block 26c1fd88 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+600:	Reading 31335e00
+	hit_list: {'cache_1': True}	time: 1
+
+601:	Reading 26c1f988
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+602:	Reading 3133dd48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+603:	Reading 31335d40
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+604:	Reading 31335d50
+	Writing back block 31335d50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+605:	Reading 31335d50
+	hit_list: {'cache_1': True}	time: 1
+
+606:	Reading 31335d50
+	hit_list: {'cache_1': True}	time: 1
+
+607:	Reading 31335d58
+	hit_list: {'cache_1': True}	time: 1
+
+608:	Reading 31335d58
+	hit_list: {'cache_1': True}	time: 1
+
+609:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+610:	Reading 3133dd58
+	Writing back block 3133dd58 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+611:	Reading 3133dd70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+612:	Reading 0bfefed8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+613:	Reading 31335d60
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+614:	Reading 31335d68
+	hit_list: {'cache_1': True}	time: 1
+
+615:	Reading 309a8080
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+616:	Reading 31335d60
+	hit_list: {'cache_1': True}	time: 1
+
+617:	Reading 31335d70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+618:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+619:	Writing 26c1f990
+	hit_list: {'cache_1': False}	time: 1
+
+620:	Reading 3133dd70
+	hit_list: {'cache_1': True}	time: 1
+
+621:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+622:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+623:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+624:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+625:	Reading 31dae110
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+626:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+627:	Reading 309a8080
+	hit_list: {'cache_1': True}	time: 1
+
+628:	Reading 31335d80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+629:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+630:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+631:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+632:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+633:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+634:	Reading 3133dd88
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+635:	Reading 309bc090
+	Writing back block 309bc090 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+636:	Reading 31335d90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+637:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+638:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+639:	Reading 3133ff90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+640:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+641:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+642:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+643:	Reading 31dae110
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+644:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+645:	Reading 309a8080
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+646:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+647:	Reading 31335d80
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+648:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+649:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+650:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+651:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+652:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+653:	Reading 309a8088
+	hit_list: {'cache_1': True}	time: 1
+
+654:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+655:	Reading 31335d90
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+656:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+657:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+658:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+659:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+660:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+661:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+662:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+663:	Reading 309a8088
+	hit_list: {'cache_1': True}	time: 1
+
+664:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+665:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+666:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+667:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+668:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+669:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+670:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+671:	Reading 309a8088
+	hit_list: {'cache_1': True}	time: 1
+
+672:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+673:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+674:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+675:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+676:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+677:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+678:	Reading 31335da0
+	Writing back block 31335da0 to cache_3
+	Writing back block 31335da0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+679:	Reading 31335da0
+	hit_list: {'cache_1': True}	time: 1
+
+680:	Reading 26c1f990
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+681:	Reading 0001f110
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+682:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+683:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+684:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+685:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+686:	Reading 26c1f998
+	hit_list: {'cache_1': True}	time: 1
+
+687:	Reading 31335db0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+688:	Reading 26c1f998
+	hit_list: {'cache_1': True}	time: 1
+
+689:	Reading 2f8776a0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+690:	Reading 2f8776a8
+	hit_list: {'cache_1': True}	time: 1
+
+691:	Reading 2f87feb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+692:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+693:	Reading 2f8776b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+694:	Reading 0bfefad0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+695:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+696:	Reading 2f8776b8
+	hit_list: {'cache_1': True}	time: 1
+
+697:	Reading 2f8776b8
+	hit_list: {'cache_1': True}	time: 1
+
+698:	Reading 2f8776c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+699:	Reading 3d729690
+	Writing back block 3d729690 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+700:	Writing 30429fd0
+	hit_list: {'cache_1': False}	time: 1
+
+701:	Reading 2f8776c0
+	hit_list: {'cache_1': True}	time: 1
+
+702:	Reading 3d729628
+	Writing back block 3d729628 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+703:	Reading 2f8776c8
+	hit_list: {'cache_1': True}	time: 1
+
+704:	Reading 0bfefac8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+705:	Reading 0002ff98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+706:	Reading 2f8776d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+707:	Reading 2f8776f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+708:	Reading 2f877700
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+709:	Reading 0ac5cc48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+710:	Reading 2f877700
+	hit_list: {'cache_1': True}	time: 1
+
+711:	Reading 2f877730
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+712:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+713:	Reading 2f877738
+	hit_list: {'cache_1': True}	time: 1
+
+714:	Reading 2f9e1f88
+	Writing back block 2f9e1f88 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+715:	Reading 2f9e1f88
+	hit_list: {'cache_1': True}	time: 1
+
+716:	Reading 2f9edf90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+717:	Reading 26c1f9b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+718:	Reading 2f9e1f90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+719:	Reading 26c1f9b0
+	hit_list: {'cache_1': True}	time: 1
+
+720:	Reading 2002ff90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+721:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+722:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+723:	Reading 26c1fa58
+	Writing back block 26c1fa58 to cache_2
+	Writing back block 30429fd0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+724:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+725:	Reading 26c1fa58
+	hit_list: {'cache_1': True}	time: 1
+
+726:	Reading 308b2530
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+727:	Reading 308b2530
+	hit_list: {'cache_1': True}	time: 1
+
+728:	Reading 308b6d30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+729:	Reading 308b2560
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+730:	Reading 308b2560
+	hit_list: {'cache_1': True}	time: 1
+
+731:	Reading 308b2568
+	hit_list: {'cache_1': True}	time: 1
+
+732:	Reading 2faebb48
+	Writing back block 2faebb48 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+733:	Reading 308b2570
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+734:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+735:	Reading 308b2578
+	hit_list: {'cache_1': True}	time: 1
+
+736:	Writing 26c1ff30
+	hit_list: {'cache_1': False}	time: 1
+
+737:	Reading 308b6578
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+738:	Reading 308bfd90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+739:	Reading 308b2580
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+740:	Reading 308b25c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+741:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+742:	Reading 308b25c0
+	hit_list: {'cache_1': True}	time: 1
+
+743:	Reading 308bedd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+744:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+745:	Reading 308b25d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+746:	Reading 308b25d8
+	hit_list: {'cache_1': True}	time: 1
+
+747:	Reading 308b25e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+748:	Reading 2efec210
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+749:	Reading 308b25e0
+	hit_list: {'cache_1': True}	time: 1
+
+750:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+751:	Reading 308b2760
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+752:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+753:	Reading 308b2760
+	hit_list: {'cache_1': True}	time: 1
+
+754:	Reading 30c6d458
+	Writing back block 30c6d458 to mem
+	Writing back block 30c6d458 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2217
+
+755:	Reading 300bff78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+756:	Reading 308b2770
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+757:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+758:	Reading 308b2770
+	hit_list: {'cache_1': True}	time: 1
+
+759:	Reading 30c6d170
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+760:	Reading 308b2610
+	Writing back block 308b2610 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+761:	Reading 308b2610
+	hit_list: {'cache_1': True}	time: 1
+
+762:	Writing 26c1ff28
+	hit_list: {'cache_1': False}	time: 1
+
+763:	Reading 308bee18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+764:	Reading 308b2628
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+765:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+766:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+767:	Reading 300bff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+768:	Reading 308b26b8
+	Writing back block 308b26b8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+769:	Reading 308b26b8
+	hit_list: {'cache_1': True}	time: 1
+
+770:	Reading 308b26c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+771:	Reading 308b26c0
+	hit_list: {'cache_1': True}	time: 1
+
+772:	Reading 2f974a18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+773:	Reading 2f9746e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+774:	Reading 2f9748f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+775:	Reading 26c1ff28
+	hit_list: {'cache_1': True}	time: 1
+
+776:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+777:	Reading 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+778:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+779:	Reading 2f974900
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+780:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+781:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+782:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+783:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+784:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+785:	Reading 2f97cd08
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+786:	Reading 2f974910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+787:	Reading 2f974968
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+788:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+789:	Reading 2f974970
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+790:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+791:	Reading 2f1ace80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+792:	Reading 2f97ff78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+793:	Reading 2f97dd90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+794:	Reading 26c1fd98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+795:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+796:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+797:	Reading 30c6dfd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+798:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+799:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+800:	Reading 2f974990
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+801:	Reading 2d97ffb0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+802:	Reading 2441ff50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+803:	Reading 2f9749b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+804:	Reading 30c6d988
+	Writing back block 30c6d988 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+805:	Reading 2f9749b8
+	hit_list: {'cache_1': True}	time: 1
+
+806:	Reading 2f9749c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+807:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+808:	Reading 2f9749c0
+	hit_list: {'cache_1': True}	time: 1
+
+809:	Reading 308b23e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+810:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+811:	Reading 300bfff0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+812:	Reading 2041f338
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+813:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+814:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+815:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+816:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+817:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+818:	Reading 308beff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+819:	Writing 2641ff90
+	hit_list: {'cache_1': False}	time: 1
+
+820:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+821:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+822:	Reading 308bec10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+823:	Reading 308b24c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+824:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+825:	Reading 308b24d0
+	Writing back block 308b24d0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+826:	Reading 308b24d0
+	hit_list: {'cache_1': True}	time: 1
+
+827:	Reading 308becf8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+828:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+829:	Reading 308b24f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+830:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+831:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+832:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+833:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+834:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+835:	Reading 308b6530
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+836:	Reading 0000ff10
+	Writing back block 0000ff10 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+837:	Reading 308b2560
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+838:	Reading 308b2560
+	hit_list: {'cache_1': True}	time: 1
+
+839:	Reading 308b6568
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+840:	Reading 2faebb48
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+841:	Reading 308b2568
+	hit_list: {'cache_1': True}	time: 1
+
+842:	Reading 308b2570
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+843:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+844:	Reading 308b2578
+	hit_list: {'cache_1': True}	time: 1
+
+845:	Writing 26c1ff30
+	hit_list: {'cache_1': True}	time: 1
+
+846:	Reading 308b2580
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+847:	Reading 308b2580
+	hit_list: {'cache_1': True}	time: 1
+
+848:	Reading 308b25c0
+	Writing back block 308b25c0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+849:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+850:	Reading 308b25c0
+	hit_list: {'cache_1': True}	time: 1
+
+851:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+852:	Reading 308b25c8
+	hit_list: {'cache_1': True}	time: 1
+
+853:	Reading 308b25d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+854:	Reading 308bfdd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+855:	Reading 308bedf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+856:	Reading 30cedc50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+857:	Reading 308b25e0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+858:	Reading 308b25e8
+	hit_list: {'cache_1': True}	time: 1
+
+859:	Reading 3136efc8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+860:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+861:	Reading 308b25f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+862:	Reading 308b26f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+863:	Reading 308b6ef0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+864:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+865:	Reading 308b2700
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+866:	Reading 308b2700
+	hit_list: {'cache_1': True}	time: 1
+
+867:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+868:	Reading 308b2708
+	hit_list: {'cache_1': True}	time: 1
+
+869:	Reading 308b2708
+	hit_list: {'cache_1': True}	time: 1
+
+870:	Reading 200bff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+871:	Reading 35729ff0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+872:	Reading 308b2730
+	Writing back block 308b2730 to cache_3
+	Writing back block 308b2730 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+873:	Reading 308b2730
+	hit_list: {'cache_1': True}	time: 1
+
+874:	Reading 308b2738
+	hit_list: {'cache_1': True}	time: 1
+
+875:	Reading 308b2740
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+876:	Writing 3d7296e0
+	hit_list: {'cache_1': True}	time: 1
+
+877:	Reading 308bef50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+878:	Reading 308b2740
+	hit_list: {'cache_1': True}	time: 1
+
+879:	Reading 3d7296d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+880:	Reading 308b2748
+	hit_list: {'cache_1': True}	time: 1
+
+881:	Reading 308b2750
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+882:	Writing 26c1fa78
+	hit_list: {'cache_1': False}	time: 1
+
+883:	Reading 0003ff50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+884:	Reading 308b2758
+	hit_list: {'cache_1': True}	time: 1
+
+885:	Writing 26c1ff40
+	hit_list: {'cache_1': False}	time: 1
+
+886:	Reading 308b2758
+	hit_list: {'cache_1': True}	time: 1
+
+887:	Reading 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+888:	Reading 308b6f58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+889:	Reading 308b2760
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+890:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+891:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+892:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+893:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+894:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+895:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+896:	Reading 308b63f0
+	Writing back block 308b63f0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+897:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+898:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+899:	Writing 26c1fd90
+	hit_list: {'cache_1': False}	time: 1
+
+900:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+901:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+902:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+903:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+904:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+905:	Reading 308becd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+906:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+907:	Reading 308b24e8
+	Writing back block 308b24e8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+908:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+909:	Reading 308bfef0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+910:	Reading 30c6dab0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+911:	Reading 308b24f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+912:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+913:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+914:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+915:	Reading 308b2760
+	hit_list: {'cache_1': True}	time: 1
+
+916:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+917:	Reading 308b2760
+	hit_list: {'cache_1': True}	time: 1
+
+918:	Reading 30c6d468
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+919:	Reading 308b6768
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+920:	Reading 308b2770
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+921:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+922:	Reading 308b2770
+	hit_list: {'cache_1': True}	time: 1
+
+923:	Reading 308bee18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+924:	Reading 20027270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+925:	Reading 308b2610
+	Writing back block 308b2610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+926:	Reading 308b2610
+	hit_list: {'cache_1': True}	time: 1
+
+927:	Writing 26c1ff28
+	hit_list: {'cache_1': True}	time: 1
+
+928:	Reading 308b2618
+	hit_list: {'cache_1': True}	time: 1
+
+929:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+930:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+931:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+932:	Reading 26c1fa78
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+933:	Reading 308bfe38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+934:	Reading 3d729ee8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+935:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+936:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+937:	Reading 308beeb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+938:	Reading 308b26c0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+939:	Reading 308b26c0
+	hit_list: {'cache_1': True}	time: 1
+
+940:	Reading 308b26c8
+	hit_list: {'cache_1': True}	time: 1
+
+941:	Reading 2f974bf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+942:	Reading 331331a0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+943:	Reading 26c1fa78
+	hit_list: {'cache_1': True}	time: 1
+
+944:	Reading 331331a0
+	hit_list: {'cache_1': True}	time: 1
+
+945:	Reading 331331a0
+	hit_list: {'cache_1': True}	time: 1
+
+946:	Writing 26c1fa58
+	hit_list: {'cache_1': False}	time: 1
+
+947:	Reading 331331a0
+	hit_list: {'cache_1': True}	time: 1
+
+948:	Writing 26c1fa50
+	hit_list: {'cache_1': True}	time: 1
+
+949:	Reading 331331a8
+	hit_list: {'cache_1': True}	time: 1
+
+950:	Writing 26c1fa50
+	hit_list: {'cache_1': True}	time: 1
+
+951:	Reading 30c486a8
+	Writing back block 30c486a8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+952:	Reading 3137e350
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+953:	Reading 3d7291d0
+	Writing back block 3d7291d0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+954:	Reading 3137e350
+	hit_list: {'cache_1': True}	time: 1
+
+955:	Writing 2441fa58
+	hit_list: {'cache_1': False}	time: 1
+
+956:	Reading 3137e350
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+957:	Writing 26c1fa48
+	Writing back block 26c1fa48 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+958:	Reading 3137ef50
+	Writing back block 3137ef50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+959:	Reading 3137e358
+	hit_list: {'cache_1': True}	time: 1
+
+960:	Reading 3137e360
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+961:	Reading 3d7291d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+962:	Reading 3137e360
+	hit_list: {'cache_1': True}	time: 1
+
+963:	Reading 3d7291b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+964:	Reading 3137ef60
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+965:	Reading 3d7291a8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+966:	Reading 3d7291b0
+	hit_list: {'cache_1': True}	time: 1
+
+967:	Reading 3137e368
+	hit_list: {'cache_1': True}	time: 1
+
+968:	Reading 3137e368
+	hit_list: {'cache_1': True}	time: 1
+
+969:	Reading 3137e370
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+970:	Reading 3137e380
+	Writing back block 3137e380 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+971:	Reading 3137e380
+	hit_list: {'cache_1': True}	time: 1
+
+972:	Reading 3d7291b0
+	hit_list: {'cache_1': True}	time: 1
+
+973:	Reading 3137e388
+	hit_list: {'cache_1': True}	time: 1
+
+974:	Reading 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+975:	Reading 3137e388
+	hit_list: {'cache_1': True}	time: 1
+
+976:	Reading 3103ff98
+	Writing back block 3103ff98 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+977:	Reading 3137e390
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+978:	Reading 3d7291d0
+	hit_list: {'cache_1': True}	time: 1
+
+979:	Reading 3137e390
+	hit_list: {'cache_1': True}	time: 1
+
+980:	Reading 3d7291c8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+981:	Reading 3137ef98
+	Writing back block 3137ef98 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+982:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+983:	Reading 3137e3a0
+	Writing back block 3137e3a0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+984:	Reading 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+985:	Reading 3137e3a0
+	hit_list: {'cache_1': True}	time: 1
+
+986:	Reading 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+987:	Reading 3137e3a8
+	hit_list: {'cache_1': True}	time: 1
+
+988:	Reading 3137efa8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+989:	Reading 35739fb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+990:	Reading 3137e3b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+991:	Writing 3d7291b0
+	hit_list: {'cache_1': False}	time: 1
+
+992:	Reading 3137e3b8
+	hit_list: {'cache_1': True}	time: 1
+
+993:	Reading 3137e3c0
+	Writing back block 3137e3c0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+994:	Reading 3d7291d0
+	hit_list: {'cache_1': True}	time: 1
+
+995:	Reading 3137e3c0
+	hit_list: {'cache_1': True}	time: 1
+
+996:	Reading 3d7291a8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+997:	Reading 3137e3c8
+	hit_list: {'cache_1': True}	time: 1
+
+998:	Reading 3137e3c8
+	hit_list: {'cache_1': True}	time: 1
+
+999:	Reading 3137e3c8
+	hit_list: {'cache_1': True}	time: 1
+
+1000:	Reading 2003ffd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1001:	Reading 2002f1b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1002:	Reading 3137e3d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1003:	Reading 3d7291d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1004:	Reading 3137e3d8
+	hit_list: {'cache_1': True}	time: 1
+
+1005:	Reading 3d7291b0
+	hit_list: {'cache_1': True}	time: 1
+
+1006:	Reading 3137e3d8
+	hit_list: {'cache_1': True}	time: 1
+
+1007:	Reading 3d7291a0
+	hit_list: {'cache_1': True}	time: 1
+
+1008:	Reading 3137efd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1009:	Reading 3137efe0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1010:	Reading 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+1011:	Reading 3137e3e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1012:	Reading 3137e3e0
+	hit_list: {'cache_1': True}	time: 1
+
+1013:	Reading 3137e3e0
+	hit_list: {'cache_1': True}	time: 1
+
+1014:	Reading 3137e3f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1015:	Reading 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+1016:	Reading 3137e3f0
+	hit_list: {'cache_1': True}	time: 1
+
+1017:	Writing 3d7291a8
+	hit_list: {'cache_1': True}	time: 1
+
+1018:	Reading 3107fff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1019:	Reading 3137e3f8
+	hit_list: {'cache_1': True}	time: 1
+
+1020:	Reading 3137e400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1021:	Reading 3d7291b0
+	hit_list: {'cache_1': True}	time: 1
+
+1022:	Reading 3137e400
+	hit_list: {'cache_1': True}	time: 1
+
+1023:	Reading 3137e400
+	hit_list: {'cache_1': True}	time: 1
+
+1024:	Reading 3137ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1025:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+1026:	Writing 332633b0
+	Writing back block 332633b0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1027:	Reading 3137e410
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1028:	Reading 3137e410
+	hit_list: {'cache_1': True}	time: 1
+
+1029:	Reading 3137e410
+	hit_list: {'cache_1': True}	time: 1
+
+1030:	Reading 3137e408
+	hit_list: {'cache_1': True}	time: 1
+
+1031:	Writing 332633a8
+	hit_list: {'cache_1': False}	time: 1
+
+1032:	Reading 3137e410
+	hit_list: {'cache_1': True}	time: 1
+
+1033:	Reading 3137ec10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1034:	Reading 3137e400
+	hit_list: {'cache_1': True}	time: 1
+
+1035:	Writing 332633a8
+	hit_list: {'cache_1': True}	time: 1
+
+1036:	Reading 3137e410
+	hit_list: {'cache_1': True}	time: 1
+
+1037:	Reading 3137ec10
+	hit_list: {'cache_1': True}	time: 1
+
+1038:	Reading 3137e410
+	hit_list: {'cache_1': True}	time: 1
+
+1039:	Reading 3137e418
+	hit_list: {'cache_1': True}	time: 1
+
+1040:	Reading 332633b0
+	hit_list: {'cache_1': True}	time: 1
+
+1041:	Reading 3137e418
+	hit_list: {'cache_1': True}	time: 1
+
+1042:	Reading 26c1fa48
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1043:	Reading 3137e418
+	hit_list: {'cache_1': True}	time: 1
+
+1044:	Reading 3137e420
+	Writing back block 3137e420 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1045:	Writing 332633b0
+	hit_list: {'cache_1': True}	time: 1
+
+1046:	Reading 3137e420
+	hit_list: {'cache_1': True}	time: 1
+
+1047:	Reading 3d7291d0
+	hit_list: {'cache_1': True}	time: 1
+
+1048:	Reading 3137e428
+	hit_list: {'cache_1': True}	time: 1
+
+1049:	Reading 3137e428
+	hit_list: {'cache_1': True}	time: 1
+
+1050:	Reading 26c1fa48
+	hit_list: {'cache_1': True}	time: 1
+
+1051:	Reading 3137e430
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1052:	Reading 3137e430
+	hit_list: {'cache_1': True}	time: 1
+
+1053:	Reading 3137e430
+	hit_list: {'cache_1': True}	time: 1
+
+1054:	Writing 332633b0
+	hit_list: {'cache_1': True}	time: 1
+
+1055:	Reading 26c1fa58
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1056:	Reading 3137e438
+	hit_list: {'cache_1': True}	time: 1
+
+1057:	Reading 26c1fa50
+	hit_list: {'cache_1': True}	time: 1
+
+1058:	Reading 3137e438
+	hit_list: {'cache_1': True}	time: 1
+
+1059:	Reading 3137e440
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1060:	Writing 332633a8
+	hit_list: {'cache_1': True}	time: 1
+
+1061:	Reading 3137e440
+	hit_list: {'cache_1': True}	time: 1
+
+1062:	Reading 26c1ff58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1063:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1064:	Reading 3137e448
+	hit_list: {'cache_1': True}	time: 1
+
+1065:	Writing 332633b8
+	hit_list: {'cache_1': True}	time: 1
+
+1066:	Reading 3137e448
+	hit_list: {'cache_1': True}	time: 1
+
+1067:	Reading 26c1fe50
+	Writing back block 26c1fe50 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1068:	Reading 331331b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1069:	Reading 2f9748f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1070:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1071:	Reading 26c1ff28
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1072:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1073:	Reading 26c1ff48
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1074:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1075:	Reading 2f974900
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1076:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1077:	Reading 2f97fd10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1078:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1079:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1080:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1081:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1082:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1083:	Reading 2f974910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1084:	Reading 2f974968
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1085:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1086:	Reading 2f974970
+	Writing back block 2f974970 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1087:	Reading 2f974d70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1088:	Writing 26c1fe78
+	hit_list: {'cache_1': False}	time: 1
+
+1089:	Reading 2f974970
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1090:	Reading 2f1acf70
+	Writing back block 2f1acf70 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1091:	Reading 2f974978
+	hit_list: {'cache_1': True}	time: 1
+
+1092:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1093:	Reading 26c1fd90
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1094:	Reading 2017ff90
+	Writing back block 2017ff90 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1095:	Writing 2441ff50
+	hit_list: {'cache_1': False}	time: 1
+
+1096:	Reading 2f974980
+	hit_list: {'cache_1': True}	time: 1
+
+1097:	Reading 3136e010
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1098:	Reading 05db8080
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1099:	Reading 05db8080
+	hit_list: {'cache_1': True}	time: 1
+
+1100:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+1101:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+1102:	Reading 2f974990
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1103:	Reading 2f974990
+	hit_list: {'cache_1': True}	time: 1
+
+1104:	Reading 2f974998
+	hit_list: {'cache_1': True}	time: 1
+
+1105:	Reading 2017ff98
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1106:	Reading 05db8240
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1107:	Reading 05db8260
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1108:	Reading 2017ffb0
+	Writing back block 2017ffb0 to mem
+	Writing back block 2017ffb0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2133
+
+1109:	Reading 2f9749a0
+	Writing back block 2f9749a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1110:	Reading 2017ffb0
+	hit_list: {'cache_1': True}	time: 1
+
+1111:	Reading 3136ed18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1112:	Reading 2f9749a0
+	hit_list: {'cache_1': True}	time: 1
+
+1113:	Reading 2f9749a8
+	hit_list: {'cache_1': True}	time: 1
+
+1114:	Reading 308beff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1115:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1116:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1117:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1118:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+1119:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+1120:	Reading 308beff0
+	hit_list: {'cache_1': True}	time: 1
+
+1121:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1122:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1123:	Writing 26c1fd90
+	hit_list: {'cache_1': False}	time: 1
+
+1124:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1125:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+1126:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+1127:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1128:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1129:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1130:	Reading 308b24d0
+	hit_list: {'cache_1': True}	time: 1
+
+1131:	Reading 308b24e8
+	Writing back block 308b24e8 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1132:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1133:	Reading 308b24f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1134:	Reading 30c6dac8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1135:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+1136:	Reading 308b24f8
+	hit_list: {'cache_1': True}	time: 1
+
+1137:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1138:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1139:	Reading 3d7296e0
+	hit_list: {'cache_1': True}	time: 1
+
+1140:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+1141:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+1142:	Reading 308bed10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1143:	Reading 3d729ee8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1144:	Reading 308b2510
+	Writing back block 308b2510 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1145:	Reading 308b2528
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1146:	Writing 26c1fa58
+	Writing back block 26c1fa58 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False}	time: 17
+
+1147:	Reading 30c48238
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1148:	Reading 2f8773b0
+	Writing back block 2f8773b0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1149:	Writing 26c1fa58
+	hit_list: {'cache_1': True}	time: 1
+
+1150:	Reading 2f877fb0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1151:	Reading 2f8773b0
+	hit_list: {'cache_1': True}	time: 1
+
+1152:	Reading 2f8773b8
+	hit_list: {'cache_1': True}	time: 1
+
+1153:	Writing 26c1f9b0
+	hit_list: {'cache_1': False}	time: 1
+
+1154:	Reading 2f8773b8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1155:	Reading 0003ff58
+	Writing back block 0003ff58 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1156:	Reading 2f8773c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1157:	Writing 26c1f9b0
+	hit_list: {'cache_1': True}	time: 1
+
+1158:	Reading 2f87ffd0
+	Writing back block 2f87ffd0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1159:	Writing 26c1f9a8
+	hit_list: {'cache_1': False}	time: 1
+
+1160:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+1161:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+1162:	Writing 26c1fa30
+	hit_list: {'cache_1': False}	time: 1
+
+1163:	Reading 2f8773c8
+	hit_list: {'cache_1': True}	time: 1
+
+1164:	Reading 2007ffd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1165:	Writing 26c1fa50
+	hit_list: {'cache_1': False}	time: 1
+
+1166:	Reading 2f8773c8
+	hit_list: {'cache_1': True}	time: 1
+
+1167:	Writing 0bfef848
+	Writing back block 0bfef848 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1168:	Reading 2f8773d8
+	Writing back block 2f8773d8 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1169:	Reading 2f877408
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1170:	Reading 2f877408
+	hit_list: {'cache_1': True}	time: 1
+
+1171:	Reading 2f877410
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1172:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+1173:	Reading 2f9e1fb8
+	Writing back block 2f9e1fb8 to cache_2
+	Writing back block 26c1f9b0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1174:	Reading 0002ff18
+	Writing back block 0002ff18 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1175:	Reading 0003ff30
+	Writing back block 0003ff30 to cache_3
+	Writing back block 0003ff30 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1176:	Reading 00021f98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1177:	Reading 2f877420
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1178:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1179:	Reading 2f877428
+	hit_list: {'cache_1': True}	time: 1
+
+1180:	Reading 249db050
+	Writing back block 249db050 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1181:	Reading 2c87fc38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1182:	Reading 2f877420
+	hit_list: {'cache_1': True}	time: 1
+
+1183:	Reading 2f877428
+	hit_list: {'cache_1': True}	time: 1
+
+1184:	Reading 3d729b58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1185:	Reading 2f877430
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1186:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1187:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1188:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1189:	Reading 2041a3b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1190:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1191:	Reading 2f877440
+	Writing back block 2f877440 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1192:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1193:	Reading 2f87fc50
+	Writing back block 2f87fc50 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1194:	Reading 2f877408
+	hit_list: {'cache_1': True}	time: 1
+
+1195:	Reading 2f877408
+	hit_list: {'cache_1': True}	time: 1
+
+1196:	Reading 2f877410
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1197:	Reading 0003ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1198:	Reading 3d729640
+	Writing back block 3d729640 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1199:	Reading 2f877460
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1200:	Writing 26c1fa50
+	Writing back block 26c1fa50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1201:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1202:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1203:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1204:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+1205:	Reading 2f877468
+	hit_list: {'cache_1': True}	time: 1
+
+1206:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1207:	Reading 0002ff10
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1208:	Reading 2f877470
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1209:	Reading 2f877470
+	hit_list: {'cache_1': True}	time: 1
+
+1210:	Reading 2f877478
+	hit_list: {'cache_1': True}	time: 1
+
+1211:	Reading 2f877480
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1212:	Reading 33922088
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1213:	Reading 2f877480
+	hit_list: {'cache_1': True}	time: 1
+
+1214:	Reading 33922018
+	Writing back block 33922018 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1215:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1216:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1217:	Reading 2f8775d0
+	hit_list: {'cache_1': True}	time: 1
+
+1218:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1219:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+1220:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1221:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1222:	Reading 249db340
+	Writing back block 249db340 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1223:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+1224:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1225:	Reading 2f877608
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1226:	Reading 2f877610
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1227:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1228:	Reading 2f877620
+	Writing back block 2f877620 to cache_3
+	Writing back block 2f877620 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+1229:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+1230:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1231:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1232:	Reading 3d72d648
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1233:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+1234:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+1235:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+1236:	Reading 2887fe50
+	Writing back block 2887fe50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1237:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1238:	Reading 2f877648
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1239:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1240:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1241:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1242:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1243:	Reading 2f877650
+	Writing back block 2f877650 to mem
+	Writing back block 2f877650 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2217
+
+1244:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1245:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+1246:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+1247:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+1248:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1249:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1250:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1251:	Reading 2f87fe70
+	Writing back block 2f87fe70 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1252:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1253:	Reading 3259e2b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1254:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1255:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1256:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1257:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1258:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1259:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+1260:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1261:	Reading 249dbe70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1262:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1263:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1264:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1265:	Reading 2f877610
+	hit_list: {'cache_1': True}	time: 1
+
+1266:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1267:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1268:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+1269:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1270:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+1271:	Reading 3d729648
+	Writing back block 3d729648 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1272:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+1273:	Reading 2f87fe38
+	Writing back block 2f87fe38 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1274:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+1275:	Reading 2f877640
+	hit_list: {'cache_1': True}	time: 1
+
+1276:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1277:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1278:	Reading 3d729f58
+	Writing back block 3d729f58 to cache_2
+	Writing back block 249db050 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1279:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1280:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1281:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1282:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+1283:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1284:	Reading 0001ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1285:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1286:	Reading 2f877658
+	Writing back block 2f877658 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1287:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1288:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+1289:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1290:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1291:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1292:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1293:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1294:	Reading 3259e2b0
+	hit_list: {'cache_1': True}	time: 1
+
+1295:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1296:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1297:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1298:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1299:	Reading 2f87fdd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1300:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1301:	Reading 2f8775e8
+	hit_list: {'cache_1': True}	time: 1
+
+1302:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1303:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1304:	Reading 249db338
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1305:	Reading 2f8775f0
+	hit_list: {'cache_1': True}	time: 1
+
+1306:	Reading 0002ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1307:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1308:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+1309:	Reading 2f877610
+	Writing back block 2f877610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1310:	Reading 2087ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1311:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1312:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+1313:	Reading 2f877628
+	hit_list: {'cache_1': True}	time: 1
+
+1314:	Reading 0ac5c2e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1315:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1316:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+1317:	Reading 2003ff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1318:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+1319:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+1320:	Reading 2f877640
+	hit_list: {'cache_1': True}	time: 1
+
+1321:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1322:	Reading 2f87fe48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1323:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1324:	Reading 2f877648
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1325:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1326:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1327:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1328:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1329:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+1330:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1331:	Reading 0002ff58
+	Writing back block 0002ff58 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1332:	Reading 249df050
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1333:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1334:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1335:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1336:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1337:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1338:	Reading 2007ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1339:	Reading 3259eab0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1340:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1341:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1342:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1343:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1344:	Reading 2f8775d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1345:	Reading 249db478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1346:	Reading 2f8775d8
+	hit_list: {'cache_1': True}	time: 1
+
+1347:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1348:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1349:	Reading 2f87fdf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1350:	Reading 249df358
+	Writing back block 249df358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1351:	Reading 2f8775f8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1352:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1353:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+1354:	Reading 2f877610
+	Writing back block 2f877610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1355:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1356:	Reading 2f877618
+	hit_list: {'cache_1': True}	time: 1
+
+1357:	Reading 2f877620
+	hit_list: {'cache_1': True}	time: 1
+
+1358:	Reading 2f877e28
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1359:	Reading 0ac5cee8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1360:	Reading 2f877630
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1361:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1362:	Reading 2f877630
+	hit_list: {'cache_1': True}	time: 1
+
+1363:	Reading 2f877638
+	hit_list: {'cache_1': True}	time: 1
+
+1364:	Reading 2f87fe38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1365:	Reading 0000ff10
+	hit_list: {'cache_1': True}	time: 1
+
+1366:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1367:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1368:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1369:	Reading 2f877648
+	hit_list: {'cache_1': True}	time: 1
+
+1370:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1371:	Reading 2f877650
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1372:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+1373:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1374:	Reading 2f877650
+	hit_list: {'cache_1': True}	time: 1
+
+1375:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1376:	Reading 2f877658
+	Writing back block 2f877658 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1377:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1378:	Reading 2f877658
+	hit_list: {'cache_1': True}	time: 1
+
+1379:	Reading 2f877660
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1380:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1381:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1382:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1383:	Reading 2f877660
+	hit_list: {'cache_1': True}	time: 1
+
+1384:	Reading 3259e2b0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1385:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1386:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1387:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1388:	Reading 2f877668
+	hit_list: {'cache_1': True}	time: 1
+
+1389:	Reading 2007ffd0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1390:	Reading 2001f478
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1391:	Reading 2f8775d8
+	Writing back block 2f8775d8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1392:	Reading 2f8775e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1393:	Reading 249db270
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1394:	Reading 2f8775f0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1395:	Reading 249dbeb8
+	Writing back block 249dbeb8 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1396:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1397:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1398:	Reading 2f8775f8
+	hit_list: {'cache_1': True}	time: 1
+
+1399:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+1400:	Reading 2a87fe10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1401:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+1402:	Reading 2f877600
+	hit_list: {'cache_1': True}	time: 1
+
+1403:	Reading 2f877608
+	hit_list: {'cache_1': True}	time: 1
+
+1404:	Reading 2f87fe18
+	Writing back block 2f87fe18 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1405:	Reading 2f877680
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1406:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1407:	Reading 2f877680
+	hit_list: {'cache_1': True}	time: 1
+
+1408:	Reading 3572f658
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1409:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1410:	Reading 2f877688
+	hit_list: {'cache_1': True}	time: 1
+
+1411:	Writing 0bfef848
+	hit_list: {'cache_1': False}	time: 1
+
+1412:	Reading 2f877690
+	Writing back block 2f877690 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1413:	Writing 26c1fda8
+	hit_list: {'cache_1': False}	time: 1
+
+1414:	Reading 2f877690
+	hit_list: {'cache_1': True}	time: 1
+
+1415:	Writing 26c1f9a0
+	hit_list: {'cache_1': False}	time: 1
+
+1416:	Reading 2f877690
+	hit_list: {'cache_1': True}	time: 1
+
+1417:	Reading 2f877690
+	hit_list: {'cache_1': True}	time: 1
+
+1418:	Reading 2f8776a0
+	Writing back block 2f8776a0 to cache_3
+	Writing back block 2f8776a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+1419:	Writing 3d7296d0
+	hit_list: {'cache_1': False}	time: 1
+
+1420:	Reading 2f8776a0
+	hit_list: {'cache_1': True}	time: 1
+
+1421:	Reading 30c480a0
+	Writing back block 30c480a0 to cache_3
+	Writing back block 30c480a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 233
+
+1422:	Reading 3133dd30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1423:	Reading 26c1f9a8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1424:	Reading 31335d30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1425:	Writing 26c1f998
+	hit_list: {'cache_1': False}	time: 1
+
+1426:	Reading 31335d30
+	hit_list: {'cache_1': True}	time: 1
+
+1427:	Writing 2641ff98
+	hit_list: {'cache_1': False}	time: 1
+
+1428:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+1429:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+1430:	Reading 31335d38
+	hit_list: {'cache_1': True}	time: 1
+
+1431:	Reading 3133ff50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1432:	Reading 2041f9b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1433:	Reading 31335d40
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1434:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+1435:	Reading 31335d40
+	hit_list: {'cache_1': True}	time: 1
+
+1436:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+1437:	Reading 3133dd50
+	Writing back block 3133dd50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1438:	Reading 31335dc0
+	Writing back block 31335dc0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1439:	Reading 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+1440:	Reading 31335dc0
+	hit_list: {'cache_1': True}	time: 1
+
+1441:	Reading 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+1442:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+1443:	Writing 26c1f988
+	hit_list: {'cache_1': False}	time: 1
+
+1444:	Reading 31335dc8
+	hit_list: {'cache_1': True}	time: 1
+
+1445:	Reading 31335dc0
+	hit_list: {'cache_1': True}	time: 1
+
+1446:	Reading 31335dd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1447:	Reading 31335dd0
+	hit_list: {'cache_1': True}	time: 1
+
+1448:	Reading 31dae110
+	Writing back block 31dae110 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1449:	Reading 31335dd8
+	hit_list: {'cache_1': True}	time: 1
+
+1450:	Reading 31335dd8
+	hit_list: {'cache_1': True}	time: 1
+
+1451:	Reading 0bfef8a8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1452:	Reading 31335de0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1453:	Reading 31335de0
+	hit_list: {'cache_1': True}	time: 1
+
+1454:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1455:	Reading 3133fff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1456:	Reading 31dbe110
+	Writing back block 31dbe110 to cache_2
+	Writing back block 26c1f998 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1457:	Reading 31335de0
+	hit_list: {'cache_1': True}	time: 1
+
+1458:	Reading 31335de8
+	hit_list: {'cache_1': True}	time: 1
+
+1459:	Reading 0bfef8b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1460:	Reading 31335df0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1461:	Reading 31335df0
+	hit_list: {'cache_1': True}	time: 1
+
+1462:	Reading 0bfef8a0
+	hit_list: {'cache_1': True}	time: 1
+
+1463:	Reading 31335df8
+	hit_list: {'cache_1': True}	time: 1
+
+1464:	Reading 31335df8
+	hit_list: {'cache_1': True}	time: 1
+
+1465:	Reading 31335e00
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1466:	Reading 26c1f988
+	hit_list: {'cache_1': True}	time: 1
+
+1467:	Reading 31335e00
+	hit_list: {'cache_1': True}	time: 1
+
+1468:	Reading 26c1f988
+	hit_list: {'cache_1': True}	time: 1
+
+1469:	Reading 31335d48
+	hit_list: {'cache_1': True}	time: 1
+
+1470:	Reading 3133dd58
+	hit_list: {'cache_1': True}	time: 1
+
+1471:	Reading 31335d50
+	Writing back block 31335d50 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1472:	Reading 31335d50
+	hit_list: {'cache_1': True}	time: 1
+
+1473:	Reading 31335d50
+	hit_list: {'cache_1': True}	time: 1
+
+1474:	Reading 31335d58
+	hit_list: {'cache_1': True}	time: 1
+
+1475:	Reading 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1476:	Reading 31335d58
+	hit_list: {'cache_1': True}	time: 1
+
+1477:	Reading 31335d60
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1478:	Reading 0bfefc78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1479:	Reading 0002ff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1480:	Reading 31335d68
+	hit_list: {'cache_1': True}	time: 1
+
+1481:	Reading 309a8180
+	Writing back block 309a8180 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1482:	Reading 31335d68
+	hit_list: {'cache_1': True}	time: 1
+
+1483:	Reading 2003ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1484:	Reading 31335d70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1485:	Writing 26c1f990
+	hit_list: {'cache_1': False}	time: 1
+
+1486:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+1487:	Writing 26c1f990
+	hit_list: {'cache_1': True}	time: 1
+
+1488:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+1489:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+1490:	Reading 31335d70
+	hit_list: {'cache_1': True}	time: 1
+
+1491:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+1492:	Reading 309a8180
+	hit_list: {'cache_1': True}	time: 1
+
+1493:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+1494:	Reading 31335d80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1495:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+1496:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+1497:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+1498:	Reading 31dae110
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1499:	Reading 3133dd88
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1500:	Reading 309b8580
+	Writing back block 309b8580 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1501:	Reading 31335d88
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1502:	Reading 31335d90
+	Writing back block 31335d90 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1503:	Reading 3133dd90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1504:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+1505:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+1506:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+1507:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+1508:	Reading 205ba910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1509:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+1510:	Reading 31335d78
+	hit_list: {'cache_1': True}	time: 1
+
+1511:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+1512:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+1513:	Reading 2002ff90
+	Writing back block 2002ff90 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1514:	Reading 31335d80
+	hit_list: {'cache_1': True}	time: 1
+
+1515:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+1516:	Reading 31dae110
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1517:	Reading 31335d88
+	hit_list: {'cache_1': True}	time: 1
+
+1518:	Reading 309a8180
+	Writing back block 309a8180 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1519:	Reading 3133ff98
+	Writing back block 3133ff98 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1520:	Reading 31335d90
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1521:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+1522:	Reading 31335d90
+	hit_list: {'cache_1': True}	time: 1
+
+1523:	Reading 3133dd90
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1524:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+1525:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+1526:	Reading 31335d98
+	hit_list: {'cache_1': True}	time: 1
+
+1527:	Reading 31335da0
+	Writing back block 31335da0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1528:	Reading 3133dfb0
+	Writing back block 3133dfb0 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1529:	Reading 26c1fd90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1530:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+1531:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+1532:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+1533:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+1534:	Reading 31335da8
+	hit_list: {'cache_1': True}	time: 1
+
+1535:	Reading 26c1f998
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1536:	Reading 0002ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1537:	Reading 2441f998
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1538:	Reading 31335db0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1539:	Reading 26c1f9a0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1540:	Reading 2f8776a0
+	Writing back block 2f8776a0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1541:	Reading 2f8776a8
+	hit_list: {'cache_1': True}	time: 1
+
+1542:	Reading 2f8776a8
+	hit_list: {'cache_1': True}	time: 1
+
+1543:	Reading 2f8776a8
+	hit_list: {'cache_1': True}	time: 1
+
+1544:	Reading 0bfefc80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1545:	Reading 2f8776b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1546:	Reading 2807feb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1547:	Reading 2f8776b0
+	hit_list: {'cache_1': True}	time: 1
+
+1548:	Reading 2f8776c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1549:	Reading 3d729668
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1550:	Reading 2f8776c0
+	hit_list: {'cache_1': True}	time: 1
+
+1551:	Writing 3d7296d0
+	hit_list: {'cache_1': False}	time: 1
+
+1552:	Reading 2807fed0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1553:	Reading 2f8776c8
+	hit_list: {'cache_1': True}	time: 1
+
+1554:	Reading 0bfefc78
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1555:	Reading 2f8776c8
+	hit_list: {'cache_1': True}	time: 1
+
+1556:	Reading 0002ffd0
+	Writing back block 0002ffd0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1557:	Reading 2f8776f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1558:	Reading 2f877700
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1559:	Reading 0ac5cc48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1560:	Reading 2f877700
+	hit_list: {'cache_1': True}	time: 1
+
+1561:	Reading 2f87ff10
+	Writing back block 2f87ff10 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1562:	Reading 2f877730
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1563:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1564:	Reading 2f877738
+	hit_list: {'cache_1': True}	time: 1
+
+1565:	Reading 2f877740
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1566:	Reading 2f9e1f88
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1567:	Reading 2f9e1f88
+	hit_list: {'cache_1': True}	time: 1
+
+1568:	Reading 2f9e1f90
+	Writing back block 2f9e1f90 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1569:	Reading 26c1f9a8
+	hit_list: {'cache_1': True}	time: 1
+
+1570:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+1571:	Reading 26c1f9b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1572:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+1573:	Reading 2f9edf90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1574:	Reading 26c1fa58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1575:	Reading 2f9e1f90
+	hit_list: {'cache_1': True}	time: 1
+
+1576:	Reading 26c1fa58
+	hit_list: {'cache_1': True}	time: 1
+
+1577:	Reading 308b2530
+	Writing back block 308b2530 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1578:	Writing 3d729ee0
+	hit_list: {'cache_1': False}	time: 1
+
+1579:	Reading 308b2530
+	hit_list: {'cache_1': True}	time: 1
+
+1580:	Reading 308b6530
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1581:	Reading 308b2560
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1582:	Reading 308b2568
+	hit_list: {'cache_1': True}	time: 1
+
+1583:	Reading 2faebb48
+	Writing back block 2faebb48 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1584:	Reading 308bfd78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1585:	Reading 308b2570
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1586:	Reading 3d7296e8
+	Writing back block 3d7296e8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1587:	Reading 308b2578
+	hit_list: {'cache_1': True}	time: 1
+
+1588:	Writing 26c1ff30
+	hit_list: {'cache_1': False}	time: 1
+
+1589:	Reading 308b2578
+	hit_list: {'cache_1': True}	time: 1
+
+1590:	Reading 308bed90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1591:	Reading 308b2580
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1592:	Reading 308b25c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1593:	Reading 26c1ff40
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1594:	Reading 308b25c0
+	hit_list: {'cache_1': True}	time: 1
+
+1595:	Reading 308b25c8
+	hit_list: {'cache_1': True}	time: 1
+
+1596:	Reading 308bffd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1597:	Reading 308b25d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1598:	Reading 308b25d8
+	hit_list: {'cache_1': True}	time: 1
+
+1599:	Reading 308b25e0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1600:	Reading 2efec8d0
+	Writing back block 2efec8d0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1601:	Reading 308b25e0
+	hit_list: {'cache_1': True}	time: 1
+
+1602:	Reading 308b25e0
+	hit_list: {'cache_1': True}	time: 1
+
+1603:	Reading 308b25e8
+	hit_list: {'cache_1': True}	time: 1
+
+1604:	Reading 3136e858
+	Writing back block 3136e858 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1605:	Reading 308b25f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1606:	Reading 308b25f0
+	hit_list: {'cache_1': True}	time: 1
+
+1607:	Reading 308b26f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1608:	Reading 308b26f8
+	hit_list: {'cache_1': True}	time: 1
+
+1609:	Reading 308b2700
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1610:	Reading 308b2700
+	hit_list: {'cache_1': True}	time: 1
+
+1611:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+1612:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1613:	Reading 308b2708
+	hit_list: {'cache_1': True}	time: 1
+
+1614:	Reading 308b2730
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1615:	Reading 3d7296e0
+	hit_list: {'cache_1': True}	time: 1
+
+1616:	Reading 308b2730
+	hit_list: {'cache_1': True}	time: 1
+
+1617:	Reading 308b6f30
+	Writing back block 308b6f30 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1618:	Reading 308b2738
+	hit_list: {'cache_1': True}	time: 1
+
+1619:	Reading 308b2740
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1620:	Writing 3d7296e0
+	hit_list: {'cache_1': True}	time: 1
+
+1621:	Reading 308b2740
+	hit_list: {'cache_1': True}	time: 1
+
+1622:	Reading 26c1ff30
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1623:	Reading 308b2740
+	hit_list: {'cache_1': True}	time: 1
+
+1624:	Reading 3d7296d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1625:	Reading 308b2748
+	hit_list: {'cache_1': True}	time: 1
+
+1626:	Reading 308b2748
+	hit_list: {'cache_1': True}	time: 1
+
+1627:	Reading 308b2750
+	Writing back block 308b2750 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1628:	Reading 308b2758
+	hit_list: {'cache_1': True}	time: 1
+
+1629:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1630:	Reading 308bff58
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1631:	Reading 308b2758
+	hit_list: {'cache_1': True}	time: 1
+
+1632:	Reading 308b2760
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1633:	Reading 308b23e8
+	Writing back block 308b23e8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1634:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1635:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1636:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+1637:	Reading 308b23f0
+	hit_list: {'cache_1': True}	time: 1
+
+1638:	Reading 200bfff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1639:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+1640:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1641:	Writing 26c1fd90
+	hit_list: {'cache_1': False}	time: 1
+
+1642:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1643:	Reading 308b6c00
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1644:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+1645:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1646:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1647:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1648:	Reading 308beed0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1649:	Reading 308b24e8
+	Writing back block 308b24e8 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1650:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1651:	Reading 308b24f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1652:	Reading 30c6dab0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1653:	Reading 308b64f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1654:	Reading 300bfff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1655:	Writing 26c1ff50
+	hit_list: {'cache_1': False}	time: 1
+
+1656:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1657:	Reading 308b2760
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1658:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1659:	Reading 308b2760
+	hit_list: {'cache_1': True}	time: 1
+
+1660:	Reading 30c6d468
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1661:	Reading 308b2770
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1662:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1663:	Reading 308b2770
+	hit_list: {'cache_1': True}	time: 1
+
+1664:	Reading 0002ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1665:	Reading 30c6d270
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1666:	Reading 308b2610
+	Writing back block 308b2610 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1667:	Reading 308b2610
+	hit_list: {'cache_1': True}	time: 1
+
+1668:	Writing 26c1ff28
+	hit_list: {'cache_1': False}	time: 1
+
+1669:	Reading 300bff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1670:	Reading 308b2618
+	hit_list: {'cache_1': True}	time: 1
+
+1671:	Reading 308b2620
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1672:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+1673:	Reading 308b2620
+	hit_list: {'cache_1': True}	time: 1
+
+1674:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+1675:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1676:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+1677:	Reading 308b2628
+	hit_list: {'cache_1': True}	time: 1
+
+1678:	Reading 308beeb8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1679:	Reading 0002ff98
+	Writing back block 0002ff98 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1680:	Reading 0003ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1681:	Reading 308b26c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1682:	Reading 308b26c8
+	hit_list: {'cache_1': True}	time: 1
+
+1683:	Reading 2f974c10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1684:	Reading 2f9748f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1685:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1686:	Reading 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+1687:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1688:	Reading 2f974900
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1689:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1690:	Reading 2f97cd10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1691:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1692:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1693:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+1694:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1695:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1696:	Reading 2f974910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1697:	Reading 2f97cd68
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1698:	Reading 2f974970
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1699:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+1700:	Writing 26c1fa78
+	hit_list: {'cache_1': False}	time: 1
+
+1701:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+1702:	Reading 2f1acf90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1703:	Reading 2f974978
+	hit_list: {'cache_1': True}	time: 1
+
+1704:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1705:	Reading 26c1fd90
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1706:	Reading 2f974980
+	hit_list: {'cache_1': True}	time: 1
+
+1707:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1708:	Reading 2f974d80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1709:	Reading 3016f018
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1710:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+1711:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+1712:	Reading 2017ff90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1713:	Reading 2f974990
+	Writing back block 2f974990 to mem
+	Writing back block 2f974990 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2217
+
+1714:	Reading 2f974998
+	hit_list: {'cache_1': True}	time: 1
+
+1715:	Reading 2f974998
+	hit_list: {'cache_1': True}	time: 1
+
+1716:	Reading 2f9749a0
+	Writing back block 2f9749a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1717:	Reading 2efec1b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1718:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1719:	Reading 2f9749a0
+	hit_list: {'cache_1': True}	time: 1
+
+1720:	Reading 3136e130
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1721:	Reading 2f9749a8
+	hit_list: {'cache_1': True}	time: 1
+
+1722:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1723:	Reading 2f9749a8
+	hit_list: {'cache_1': True}	time: 1
+
+1724:	Reading 308b23e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1725:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1726:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1727:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1728:	Reading 308b67f0
+	Writing back block 308b67f0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1729:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+1730:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1731:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+1732:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1733:	Writing 26c1fd90
+	hit_list: {'cache_1': False}	time: 1
+
+1734:	Reading 308bec10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1735:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1736:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1737:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1738:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1739:	Reading 308b24e8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1740:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1741:	Reading 308b24f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1742:	Reading 30c6db08
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1743:	Reading 308becf8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1744:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1745:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1746:	Reading 308bff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1747:	Reading 26c1ff50
+	hit_list: {'cache_1': True}	time: 1
+
+1748:	Reading 0000ff10
+	Writing back block 0000ff10 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1749:	Reading 30c6d4c0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1750:	Reading 308b2768
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1751:	Reading 308b2770
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1752:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1753:	Reading 3003ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1754:	Reading 308b2608
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1755:	Reading 30c6d258
+	Writing back block 30c6d258 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1756:	Reading 308b2610
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1757:	Reading 308b2610
+	hit_list: {'cache_1': True}	time: 1
+
+1758:	Writing 26c1ff28
+	hit_list: {'cache_1': False}	time: 1
+
+1759:	Reading 308b2618
+	hit_list: {'cache_1': True}	time: 1
+
+1760:	Reading 308bee38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1761:	Reading 34739ff8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1762:	Reading 0000ff18
+	hit_list: {'cache_1': True}	time: 1
+
+1763:	Reading 308b2628
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1764:	Reading 308b26b8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1765:	Reading 308b26b8
+	hit_list: {'cache_1': True}	time: 1
+
+1766:	Reading 308b26c0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1767:	Reading 308b26c0
+	hit_list: {'cache_1': True}	time: 1
+
+1768:	Reading 308b26c8
+	hit_list: {'cache_1': True}	time: 1
+
+1769:	Reading 2f974be0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1770:	Reading 2f9746e0
+	Writing back block 2f9746e0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1771:	Reading 2f97cef0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1772:	Reading 2f9748f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1773:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1774:	Reading 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+1775:	Reading 2f9748f8
+	hit_list: {'cache_1': True}	time: 1
+
+1776:	Reading 2f974900
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1777:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1778:	Reading 2f97fd10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1779:	Reading 2f974900
+	hit_list: {'cache_1': True}	time: 1
+
+1780:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1781:	Reading 3d7296e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1782:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1783:	Reading 2f974908
+	hit_list: {'cache_1': True}	time: 1
+
+1784:	Reading 2f974910
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1785:	Reading 2f974968
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1786:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1787:	Reading 2f97fd70
+	Writing back block 2f97fd70 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1788:	Reading 2f974970
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1789:	Writing 26c1fa80
+	hit_list: {'cache_1': False}	time: 1
+
+1790:	Reading 2f974970
+	hit_list: {'cache_1': True}	time: 1
+
+1791:	Reading 2f1acf68
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1792:	Reading 2f974980
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1793:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1794:	Reading 2f974980
+	hit_list: {'cache_1': True}	time: 1
+
+1795:	Reading 3136e010
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1796:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1797:	Reading 2f974988
+	hit_list: {'cache_1': True}	time: 1
+
+1798:	Reading 2f974990
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1799:	Reading 2f97fd90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1800:	Reading 2f974998
+	hit_list: {'cache_1': True}	time: 1
+
+1801:	Reading 2f974998
+	hit_list: {'cache_1': True}	time: 1
+
+1802:	Reading 2f9749a0
+	Writing back block 2f9749a0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1803:	Reading 2efec6d8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1804:	Reading 2f9749a0
+	hit_list: {'cache_1': True}	time: 1
+
+1805:	Reading 2f9749a8
+	hit_list: {'cache_1': True}	time: 1
+
+1806:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1807:	Reading 2f9749a8
+	hit_list: {'cache_1': True}	time: 1
+
+1808:	Reading 308b23e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1809:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1810:	Reading 308b23f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1811:	Reading 26c1ff38
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1812:	Reading 308b63f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1813:	Reading 26c1ff38
+	hit_list: {'cache_1': True}	time: 1
+
+1814:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1815:	Writing 26c1ff48
+	hit_list: {'cache_1': True}	time: 1
+
+1816:	Reading 308b23f8
+	hit_list: {'cache_1': True}	time: 1
+
+1817:	Writing 26c1fd90
+	hit_list: {'cache_1': False}	time: 1
+
+1818:	Reading 308b6400
+	Writing back block 308b6400 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1819:	Reading 308b2400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1820:	Reading 308b2400
+	hit_list: {'cache_1': True}	time: 1
+
+1821:	Reading 308b24c8
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1822:	Reading 3d729ee8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1823:	Reading 308b24d0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1824:	Reading 308b24d0
+	hit_list: {'cache_1': True}	time: 1
+
+1825:	Reading 308b24e8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1826:	Reading 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1827:	Reading 308becf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1828:	Reading 30c6db98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1829:	Reading 0000ff18
+	Writing back block 0000ff18 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 33
+
+1830:	Reading 308b24f8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1831:	Writing 26c1ff40
+	hit_list: {'cache_1': True}	time: 1
+
+1832:	Reading 308b2500
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1833:	Reading 308b2500
+	hit_list: {'cache_1': True}	time: 1
+
+1834:	Reading 3d7296e0
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1835:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+1836:	Reading 308b2508
+	hit_list: {'cache_1': True}	time: 1
+
+1837:	Reading 308b2510
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1838:	Reading 3d7296e8
+	hit_list: {'cache_1': True}	time: 1
+
+1839:	Reading 308b6d10
+	Writing back block 308b6d10 to mem
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2117
+
+1840:	Reading 308b2510
+	hit_list: {'cache_1': True}	time: 1
+
+1841:	Reading 308b2528
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1842:	Writing 26c1fa58
+	hit_list: {'cache_1': False}	time: 1
+
+1843:	Reading 30c48238
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1844:	Reading 2f8773b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1845:	Writing 26c1fa58
+	hit_list: {'cache_1': True}	time: 1
+
+1846:	Reading 2f8773b0
+	hit_list: {'cache_1': True}	time: 1
+
+1847:	Reading 2f8773b8
+	hit_list: {'cache_1': True}	time: 1
+
+1848:	Writing 26c1f9b0
+	hit_list: {'cache_1': False}	time: 1
+
+1849:	Reading 2f8773b8
+	hit_list: {'cache_1': True}	time: 1
+
+1850:	Reading 0bfef848
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1851:	Reading 2f8773c0
+	Writing back block 2f8773c0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1852:	Writing 26c1f9b0
+	hit_list: {'cache_1': True}	time: 1
+
+1853:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+1854:	Writing 26c1f9a8
+	hit_list: {'cache_1': False}	time: 1
+
+1855:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+1856:	Reading 2f8773c0
+	hit_list: {'cache_1': True}	time: 1
+
+1857:	Reading 2007ffd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1858:	Reading 2001fa30
+	Writing back block 2001fa30 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1859:	Reading 2f8773c8
+	hit_list: {'cache_1': True}	time: 1
+
+1860:	Reading 2f8773c8
+	hit_list: {'cache_1': True}	time: 1
+
+1861:	Writing 26c1fa50
+	hit_list: {'cache_1': True}	time: 1
+
+1862:	Reading 2f87ffc8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1863:	Writing 0bfef840
+	hit_list: {'cache_1': False}	time: 1
+
+1864:	Reading 2f8773d8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1865:	Reading 2f877400
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1866:	Reading 2f877408
+	hit_list: {'cache_1': True}	time: 1
+
+1867:	Reading 2f877410
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1868:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+1869:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+1870:	Reading 2f9e1fb8
+	Writing back block 2f9e1fb8 to mem
+	Writing back block 2f9e1fb8 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 2133
+
+1871:	Reading 2f877418
+	hit_list: {'cache_1': True}	time: 1
+
+1872:	Reading 2f877420
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1873:	Reading 2f9e1f98
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1874:	Reading 2807ff30
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1875:	Reading 20429f58
+	Writing back block 20429f58 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1876:	Reading 2f877428
+	hit_list: {'cache_1': True}	time: 1
+
+1877:	Reading 2f877428
+	hit_list: {'cache_1': True}	time: 1
+
+1878:	Reading 2f877428
+	hit_list: {'cache_1': True}	time: 1
+
+1879:	Writing 249db050
+	hit_list: {'cache_1': False}	time: 1
+
+1880:	Reading 0002ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1881:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1882:	Reading 2f877430
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1883:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1884:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1885:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1886:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1887:	Reading 2f877438
+	hit_list: {'cache_1': True}	time: 1
+
+1888:	Reading 3259e2b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1889:	Reading 2002ff38
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1890:	Reading 2f877440
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1891:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1892:	Reading 2f877440
+	hit_list: {'cache_1': True}	time: 1
+
+1893:	Reading 2f877c08
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1894:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+1895:	Reading 2f877410
+	hit_list: {'cache_1': True}	time: 1
+
+1896:	Reading 2f87fc10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1897:	Reading 2f9e5fd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1898:	Reading 2f877410
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1899:	Reading 2f877420
+	hit_list: {'cache_1': True}	time: 1
+
+1900:	Reading 2f9e1fa0
+	Writing back block 2f9e1fa0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1901:	Reading 2f877458
+	Writing back block 2f877458 to cache_3
+	Writing back block 2f877458 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1902:	Reading 2f877460
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1903:	Reading 3d729648
+	Writing back block 3d729648 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1904:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1905:	Writing 26c1fa50
+	hit_list: {'cache_1': False}	time: 1
+
+1906:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1907:	Writing 31dae110
+	hit_list: {'cache_1': False}	time: 1
+
+1908:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1909:	Reading 3d729648
+	hit_list: {'cache_1': True}	time: 1
+
+1910:	Reading 2f877460
+	hit_list: {'cache_1': True}	time: 1
+
+1911:	Reading 2f877470
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1912:	Reading 2007ff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1913:	Reading 2f877470
+	hit_list: {'cache_1': True}	time: 1
+
+1914:	Reading 2f877478
+	hit_list: {'cache_1': True}	time: 1
+
+1915:	Reading 2f877478
+	hit_list: {'cache_1': True}	time: 1
+
+1916:	Reading 2f877480
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1917:	Reading 33922050
+	Writing back block 33922050 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1918:	Reading 2f877480
+	hit_list: {'cache_1': True}	time: 1
+
+1919:	Reading 33922000
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1920:	Reading 2f9e1c78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1921:	Reading 2f9edc78
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1922:	Reading 2f9e5c80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1923:	Reading 2f9e1c80
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1924:	Reading 2f9e1c80
+	hit_list: {'cache_1': True}	time: 1
+
+1925:	Reading 2f9e1c88
+	hit_list: {'cache_1': True}	time: 1
+
+1926:	Reading 2f9e1c90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1927:	Reading 339220f0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1928:	Reading 2f9e1cc0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1929:	Writing 3d7296d0
+	Writing back block 3d7296d0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False}	time: 17
+
+1930:	Reading 2f9fdcd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1931:	Reading 2f9e1d40
+	Writing back block 2f9e1d40 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1932:	Reading 3d729358
+	Writing back block 3d729358 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 133
+
+1933:	Reading 2f9e1d40
+	hit_list: {'cache_1': True}	time: 1
+
+1934:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1935:	Reading 2f9edd48
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1936:	Writing 2001f050
+	hit_list: {'cache_1': False}	time: 1
+
+1937:	Reading 2f9e1d48
+	hit_list: {'cache_1': True}	time: 1
+
+1938:	Reading 3d729358
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1939:	Reading 2f9e1d50
+	Writing back block 2f9e1d50 to cache_3
+	Writing back block 2f9e1d50 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1940:	Reading 249db050
+	Writing back block 249db050 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1941:	Reading 2f9edd50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1942:	Reading 2f9e1d58
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1943:	Reading 2f9e1d58
+	hit_list: {'cache_1': True}	time: 1
+
+1944:	Reading 249db050
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1945:	Reading 2f9edd58
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1946:	Reading 3041e2b0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1947:	Reading 2f9e1d60
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1948:	Reading 2f9e1d60
+	hit_list: {'cache_1': True}	time: 1
+
+1949:	Writing 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1950:	Reading 221fff70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1951:	Reading 2f9e1d68
+	hit_list: {'cache_1': True}	time: 1
+
+1952:	Reading 3d729648
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1953:	Reading 2f9e1d70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1954:	Reading 2f9e1d70
+	hit_list: {'cache_1': True}	time: 1
+
+1955:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1956:	Reading 2f9e1d78
+	hit_list: {'cache_1': True}	time: 1
+
+1957:	Reading 3472f658
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1958:	Reading 0000ff10
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 117
+
+1959:	Writing 31dae110
+	hit_list: {'cache_1': True}	time: 1
+
+1960:	Reading 2f9e1d80
+	Writing back block 2f9e1d80 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1961:	Reading 2002ff90
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1962:	Reading 2f9e1d88
+	hit_list: {'cache_1': True}	time: 1
+
+1963:	Reading 2f9e1eb0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1964:	Reading 2f9e1eb0
+	hit_list: {'cache_1': True}	time: 1
+
+1965:	Reading 2016ffb8
+	Writing back block 2016ffb8 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1966:	Reading 2f9e1ec0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1967:	Reading 339222d0
+	Writing back block 339222d0 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1133
+
+1968:	Reading 0002ff98
+	Writing back block 0002ff98 to cache_3
+	Writing back block 0002ff98 to cache_2
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1233
+
+1969:	Reading 33132fd8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1970:	Reading 0000ff18
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1971:	Reading 3d729358
+	Writing back block 3d729358 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': True}	time: 217
+
+1972:	Reading 2f9e1f50
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1973:	Writing 26c1f9a8
+	hit_list: {'cache_1': False}	time: 1
+
+1974:	Reading 2f9e1f50
+	hit_list: {'cache_1': True}	time: 1
+
+1975:	Reading 2f9e1f50
+	hit_list: {'cache_1': True}	time: 1
+
+1976:	Writing 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+1977:	Reading 3001f010
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1978:	Reading 20018f70
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1979:	Reading 30157bc8
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1980:	Writing 26c1f998
+	hit_list: {'cache_1': False}	time: 1
+
+1981:	Reading 3015ffd0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1982:	Reading 26c1f9a0
+	hit_list: {'cache_1': True}	time: 1
+
+1983:	Reading 30157bd0
+	Writing back block 30157bd0 to cache_3
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1217
+
+1984:	Reading 30157bd0
+	hit_list: {'cache_1': True}	time: 1
+
+1985:	Writing 26c1f998
+	hit_list: {'cache_1': True}	time: 1
+
+1986:	Reading 3015ffd8
+	hit_list: {'cache_1': True}	time: 1
+
+1987:	Reading 30157bd8
+	hit_list: {'cache_1': True}	time: 1
+
+1988:	Reading 26c1f9a8
+	hit_list: {'cache_1': True}	time: 1
+
+1989:	Reading 30157bd8
+	hit_list: {'cache_1': True}	time: 1
+
+1990:	Reading 30157be0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1991:	Reading 249db058
+	hit_list: {'cache_1': False, 'cache_2': True}	time: 17
+
+1992:	Reading 30157be0
+	hit_list: {'cache_1': True}	time: 1
+
+1993:	Reading 30157fe0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1994:	Reading 30157be0
+	hit_list: {'cache_1': True}	time: 1
+
+1995:	Reading 249db058
+	hit_list: {'cache_1': True}	time: 1
+
+1996:	Reading 30157bf0
+	hit_list: {'cache_1': False, 'cache_2': False, 'cache_3': False, 'mem': True}	time: 1117
+
+1997:	Reading 30157bf8
+	hit_list: {'cache_1': True}	time: 1
+
+1998:	Reading 249db050
+	hit_list: {'cache_1': True}	time: 1
+
+1999:	Reading 30157bf8
+	hit_list: {'cache_1': True}	time: 1
+
+Simulation complete
+
+Number of instructions: 2000
+
+Total cycles taken: 673164
+
+cache_3
+	Number of accesses: 752
+	Number of hits: 200
+	Number of misses: 552
+cache_2
+	Number of accesses: 973
+	Number of hits: 219
+	Number of misses: 754
+cache_1
+	Number of accesses: 2000
+	Number of hits: 948
+	Number of misses: 1052
+
+AMATs:
+{'cache_1': 349.3796307974897,
+ 'cache_2': 662.3186897290678,
+ 'cache_3': 834.0425531914893,
+ 'mem': 1000}
